@@ -25,7 +25,7 @@ namespace YeldReturnIterator
             {
 
 
-                // Display the elements return from iteration 
+                
                 foreach (var i in GetMyMaxValue())
                 {
                     Console.WriteLine(i);
